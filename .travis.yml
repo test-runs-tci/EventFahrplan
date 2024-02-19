@@ -1,7 +1,6 @@
 dist: jammy
 
 language: java
-
 jdk: openjdk17
 
 env:
